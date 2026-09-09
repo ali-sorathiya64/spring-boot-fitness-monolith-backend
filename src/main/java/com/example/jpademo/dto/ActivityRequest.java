@@ -1,6 +1,5 @@
 package com.example.jpademo.dto;
 
-
 import com.example.jpademo.model.ActivityType;
 import lombok.AllArgsConstructor;
 import lombok.Data;
