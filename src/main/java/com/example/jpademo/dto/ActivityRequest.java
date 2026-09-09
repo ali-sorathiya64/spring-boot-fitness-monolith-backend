@@ -20,5 +20,4 @@ public class ActivityRequest {
     private LocalDateTime startTime;
 
 
-
 }
